@@ -35,10 +35,6 @@
 - Visualize and edit registered data to minimize noise
 - Reconstruct the diffraction signal as images
 
-
-<br />
-<br />
-
 ---
 
 [linkedin]: https://www.linkedin.com/in/nicolas-folastre-224639175/
