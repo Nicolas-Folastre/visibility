@@ -1,8 +1,8 @@
-### Nicolas Folastre
+### About me
 
-## A🔬🔬
+### Professional background
 - 💻 ...
-
+- 🔬 
 - 🎓 PhD Student (2019, 2023) in Amiens, France
 
 
