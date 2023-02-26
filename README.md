@@ -24,6 +24,21 @@
 <br />
 <br />
 
+## Codes
+
+### Languages
+- Fiji (Fiji Is ImageJ) macro language (.ijm) 
+- Python
+
+### Purposes
+- Registration of diffraction signal from electron diffraction dataset (3DED, 4D-STEM)
+- Visualize and edit registered data to minimize noise
+- Reconstruct the diffraction signal as images
+
+
+<br />
+<br />
+
 ---
 
 [linkedin]: https://www.linkedin.com/in/nicolas-folastre-224639175/
