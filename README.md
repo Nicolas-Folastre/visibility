@@ -2,13 +2,13 @@
 
 ## A🔬🔬
 - 💻 ...
-- 📅 ...
-- 🎓 ...
-- 💼 ...
 
-### B
+- 🎓 PhD Student (2019, 2023) in Amiens, France
 
-[<img align="left" alt="Nicolas-Folastre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+### Connect with me
+
+[<img align="left" alt="Nicolas-Folastre | LinkedIn" width="22px" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" />][linkedin]
 [<img align="left" alt="Nicolas-Folastre | Researchgate" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" />][Researchgate]
 [<img align="left" alt="Nicolas-Folastre | Google_Scholar" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" />][Google_Scholar]
 
