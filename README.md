@@ -9,6 +9,7 @@
 ### B
 
 [<img align="left" alt="Nicolas-Folastre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nicolas-Folastre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ResearchGate.svg" />][linkedin]
 [<img align="left" alt="Nicolas-Folastre | Researchgate" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg" />][Researchgate]
 [<img align="left" alt="Nicolas-Folastre | Google_Scholar" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg" />][Google_Scholar]
 
