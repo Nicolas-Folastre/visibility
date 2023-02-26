@@ -1,9 +1,10 @@
-### About me
+## About me
 
 ### Professional background
-- 💻 ...
-- 🔬 
-- 🎓 PhD Student (2019, 2023) in Amiens, France
+- 💻 Computer vision, machine learning, data science
+- 🔬 Transmission electron microscopy (TEM), (TEM imaging, STEM-HAADF, STEM-EDX, 4D-STEM)
+- 🔬 X-ray absorption spectroscopy (XAS), (STXM-WANES)
+- 🎓 PhD Student (2019, 2023) in Laboratoire de Réactivité et Chimie des Solides, Amiens, France
 
 
 ### Connect with me
@@ -17,8 +18,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Fiji" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/FIJI_%28software%29_Logo.svg/1200px-FIJI_%28software%29_Logo.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
 
 <br />
 <br />
