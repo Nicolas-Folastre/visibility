@@ -1,10 +1,10 @@
 ## About me
 
 ### Professional background
-- 💻 Computer vision, machine learning, data science
+- 🎓 PhD Student (2019, 2023) in Laboratoire de Réactivité et Chimie des Solides, Amiens, France
 - 🔬 Transmission electron microscopy (TEM), (TEM imaging, STEM-HAADF, STEM-EDX, 4D-STEM)
 - 🔬 X-ray absorption spectroscopy (XAS), (STXM-WANES)
-- 🎓 PhD Student (2019, 2023) in Laboratoire de Réactivité et Chimie des Solides, Amiens, France
+- 💻 Data science, machine learning
 
 
 ### Connect with me
